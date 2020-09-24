@@ -96,7 +96,10 @@ public class DealershipMgmtServiceImpl implements DealershipMgmtService<DealerDt
 		dto=new DealerDto();
 		Dealer dealer=findNearest(geocode);
 		//converting entity to dto
-		BeanUtils.copyProperties(dealer, dto);
+		BeanUtils.copyProperties(dealer, dto,"address");
+		com.digicides.pojo.Address addr=new com.digicides.pojo.Address();
+		BeanUtils.copyProperties(dealer.getAddress(), addr);
+		dto.setAddress(addr);
 		return dto;
 	}
 

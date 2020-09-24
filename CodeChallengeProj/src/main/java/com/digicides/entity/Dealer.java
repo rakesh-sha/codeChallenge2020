@@ -39,6 +39,7 @@ public class Dealer {
 	@Column(nullable = false)
 	private Double longitude;
 	
+	
 	@Type(type = "double")
 	@Column(nullable = false)
 	private Double latitude;

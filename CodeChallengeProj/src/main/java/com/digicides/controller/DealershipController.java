@@ -17,6 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.digicides.geocode.GeocodeService;
 import com.digicides.pojo.DealerDto;
 import com.digicides.service.DealershipMgmtService;
+import com.google.maps.NearbySearchRequest.Response;
 import com.google.maps.model.LatLng;
 
 /**
@@ -50,14 +51,15 @@ public class DealershipController {
 	 * @param dto request body all details
 	 */
 	@PostMapping(value = "/add")
-	public void addDealer(@RequestBody DealerDto dto) {
+	public ResponseEntity<Void> addDealer(@RequestBody DealerDto dto) {
 		LatLng geocode = geocodeService.getGeocode(dto);
 		if (null != geocode) {
 			dto.setLatitude(geocode.lat);
 			dto.setLongitude(geocode.lng);
 		}
-
 		dealerMgmtservice.registerDealer(dto);
+
+		return new ResponseEntity<Void>(HttpStatus.OK);
 	}
 
 	/**

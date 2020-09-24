@@ -18,15 +18,15 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	runtimeOnly 'com.h2database:h2'
 	providedRuntime 'org.springframework.boot:spring-boot-starter-tomcat'
-		
 		implementation('org.springframework.boot:spring-boot-starter-data-rest')
 	implementation('com.google.maps:google-maps-services:0.1.15')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 	
 		// https://mvnrepository.com/artifact/org.projectlombok/lombok
 implementation group: 'org.projectlombok', name: 'lombok', version: '1.18.12'
-		// https://mvnrepository.com/artifact/com.google.code.geocoder-java/geocoder-java
-compile group: 'com.google.code.geocoder-java', name: 'geocoder-java', version: '0.16'
+// https://mvnrepository.com/artifact/mysql/mysql-connector-java
+implementation group: 'mysql', name: 'mysql-connector-java', version: '8.0.21'
+
 		
 	}
 
