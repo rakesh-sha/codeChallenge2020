@@ -22,7 +22,7 @@ Example Request		:	{
 Success Response	: 200 OK
 ```
 
-To get a resource
+To get a nearest Dealer by latitude and longitude
 ```
 Resource				: /dealer/{latitude}/{longitude}
 Description				: Gives you the nearest Dealer from your latitude and longitude.
@@ -39,6 +39,25 @@ Example Response		: 200 OK
     },
     "latitude": 21.468502,
     "longitude":84.044915
+  }
+```
+To get a nearest Dealer by PostCode
+```
+Resource				: getDealerByPin/{postCode}
+Description				: Gives you the nearest Dealer from your latitude and longitude.
+Method					: GET
+Response Content-type	: application/json;charset=UTF-8
+Example Response		: 200 OK	
+							{
+    "id": 35246661,
+    "name": "Soham AgriMart",
+    "address": {
+    	 "postCode": 768003 ,
+      "addressLine1": "Quntum complex sambalpur odisha" ,
+      "addressLine2": "India"
+    },
+    "latitude": 21.475587,
+    "longitude": 83.965254
   }
 ```
 
