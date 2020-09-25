@@ -4,8 +4,8 @@ Gives you the facility to add a dealer with address. Stores the longitude and la
 To add a resource
 ```
 Resource			: /add
-Description			: Adds a shop. The API would find out the latitude and longitude of the 
-					  shop address using Google Maps API and store it with the address.
+Description			: Adds a Dealer. The API would find out the latitude and longitude of the 
+					  Dealer address using Google Maps API and store it with the address.
 Method				: POST
 Request Content-type: application/json
 Example Request		:	{
@@ -25,7 +25,7 @@ Success Response	: 200 OK
 To get a resource
 ```
 Resource				: /dealer/{latitude}/{longitude}
-Description				: Gives you the nearest shop from your latitude and longitude.
+Description				: Gives you the nearest Dealer from your latitude and longitude.
 Method					: GET
 Response Content-type	: application/json;charset=UTF-8
 Example Response		: 200 OK	
