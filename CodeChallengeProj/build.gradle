@@ -3,11 +3,13 @@ plugins {
 	id 'io.spring.dependency-management' version '1.0.10.RELEASE'
 	id 'java'
 	id 'war'
+	
 }
 
 group = 'Digicides'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '1.8'
+sourceCompatibility = '11.0.8'
+targetCompatibility= '11.0.8'
 
 repositories {
 	mavenCentral()
@@ -17,7 +19,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	runtimeOnly 'com.h2database:h2'
-	providedRuntime 'org.springframework.boot:spring-boot-starter-tomcat'
+	implementation 'org.springframework.boot:spring-boot-starter-tomcat'
 		implementation('org.springframework.boot:spring-boot-starter-data-rest')
 	implementation('com.google.maps:google-maps-services:0.1.15')
 	testCompile('org.springframework.boot:spring-boot-starter-test')

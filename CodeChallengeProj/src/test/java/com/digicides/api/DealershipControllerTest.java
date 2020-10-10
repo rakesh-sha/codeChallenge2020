@@ -9,7 +9,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.SpringBootConfiguration;
-import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.boot.test.TestRestTemplate;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.context.annotation.Lazy;
@@ -28,7 +27,7 @@ import com.digicides.pojo.DealerDto;
 @WebAppConfiguration
 class DealershipControllerTest {
 
-	private int port = 8081;
+	private int port = 8081; 
 
 	private URL base;
 
