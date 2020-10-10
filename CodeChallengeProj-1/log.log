@@ -1,0 +1,297 @@
+06-10-20 12:21:38 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+06-10-20 12:21:38 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:113) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 
+06-10-20 12:21:38 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:113) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 
+06-10-20 12:21:38 [INFO] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:72) -- latitude of the address Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 is passed  as21.46849810,84.04492550 
+06-10-20 12:21:39 [INFO] com.digicides.service.DealershipMgmtServiceImpl - registerDealer com.digicides.service.DealershipMgmtServiceImpl.registerDealer(DealershipMgmtServiceImpl.java:62) -- Dealer(id=23, name=Venkateswar Agro & Tractors, address=Address(postCode=768005, addressLine1=Padar Para, Themra, Odisha , addressLine2=India), longitude=84.04492549999999, latitude=21.4684981) is added  
+06-10-20 04:53:09 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+06-10-20 04:53:09 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:113) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 
+06-10-20 04:53:10 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:113) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 
+06-10-20 04:53:11 [INFO] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:72) -- latitude of the address Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 is passed  as21.46849810,84.04492550 
+06-10-20 04:53:11 [ERROR] com.digicides.controller.DealershipController - addDealer com.digicides.controller.DealershipController.addDealer(DealershipController.java:66) -- Exception while invoking  api null 
+06-10-20 04:56:15 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+06-10-20 04:56:15 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:113) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 
+06-10-20 04:56:15 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:113) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 
+06-10-20 04:56:15 [INFO] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:72) -- latitude of the address Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 is passed  as21.46849810,84.04492550 
+06-10-20 04:56:15 [ERROR] com.digicides.controller.DealershipController - addDealer com.digicides.controller.DealershipController.addDealer(DealershipController.java:66) -- Exception while invoking  api test exception 
+06-10-20 05:04:20 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:110) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 
+06-10-20 05:04:20 [ERROR] com.digicides.controller.DealershipController - addDealer com.digicides.controller.DealershipController.addDealer(DealershipController.java:67) -- Exception while invoking  api null 
+06-10-20 05:09:59 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:110) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 
+06-10-20 05:09:59 [ERROR] com.digicides.controller.DealershipController - addDealer com.digicides.controller.DealershipController.addDealer(DealershipController.java:66) -- Exception while invoking  api [Ljava.lang.StackTraceElement;@463126c 
+06-10-20 05:11:17 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:110) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 
+06-10-20 05:11:17 [ERROR] com.digicides.controller.DealershipController - addDealer com.digicides.controller.DealershipController.addDealer(DealershipController.java:66) -- Exception while invoking  api [Ljava.lang.StackTraceElement;@15ccdf83 
+06-10-20 05:12:56 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:110) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 
+06-10-20 05:12:56 [ERROR] com.digicides.controller.DealershipController - addDealer com.digicides.controller.DealershipController.addDealer(DealershipController.java:66) -- Exception while invoking  api null 
+06-10-20 05:18:31 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 
+06-10-20 05:18:31 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : null 
+06-10-20 05:19:25 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+06-10-20 05:19:25 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 
+06-10-20 05:19:27 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 
+06-10-20 05:19:27 [INFO] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:74) -- latitude of the address Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,768005 is passed  as21.46849810,84.04492550 
+06-10-20 05:19:28 [INFO] com.digicides.service.DealershipMgmtServiceImpl - registerDealer com.digicides.service.DealershipMgmtServiceImpl.registerDealer(DealershipMgmtServiceImpl.java:62) -- Dealer(id=24, name=Venkateswar Agro & Tractors, address=Address(postCode=768005, addressLine1=Padar Para, Themra, Odisha , addressLine2=India), longitude=84.04492549999999, latitude=21.4684981) is added  
+07-10-20 04:40:40 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 04:40:40 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,1 
+07-10-20 04:40:42 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,1 
+07-10-20 04:40:42 [INFO] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:74) -- latitude of the address Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,1 is passed  as21.46849810,84.04492550 
+07-10-20 04:40:43 [INFO] com.digicides.service.DealershipMgmtServiceImpl - registerDealer com.digicides.service.DealershipMgmtServiceImpl.registerDealer(DealershipMgmtServiceImpl.java:62) -- Dealer(id=25, name=Venkateswar Agro & Tractors, address=Address(postCode=1, addressLine1=Padar Para, Themra, Odisha , addressLine2=India), longitude=84.04492549999999, latitude=21.4684981) is added  
+07-10-20 04:42:24 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 04:42:24 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,1 
+07-10-20 04:42:25 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,1 
+07-10-20 04:42:25 [INFO] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:74) -- latitude of the address Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,1 is passed  as21.46849810,84.04492550 
+07-10-20 04:42:25 [INFO] com.digicides.service.DealershipMgmtServiceImpl - registerDealer com.digicides.service.DealershipMgmtServiceImpl.registerDealer(DealershipMgmtServiceImpl.java:62) -- Dealer(id=26, name=Venkateswar Agro & Tractors, address=Address(postCode=1, addressLine1=Padar Para, Themra, Odisha , addressLine2=India), longitude=84.04492549999999, latitude=21.4684981) is added  
+07-10-20 04:44:50 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 04:44:50 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,Padar Para, Themra, Odisha ,India,1 
+07-10-20 04:44:51 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,Padar Para, Themra, Odisha ,India,1 
+07-10-20 04:44:51 [INFO] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:74) -- latitude of the address sdfsdfsdf,Padar Para, Themra, Odisha ,India,1 is passed  as21.46845990,84.04225240 
+07-10-20 04:44:51 [INFO] com.digicides.service.DealershipMgmtServiceImpl - registerDealer com.digicides.service.DealershipMgmtServiceImpl.registerDealer(DealershipMgmtServiceImpl.java:62) -- Dealer(id=27, name=sdfsdfsdf, address=Address(postCode=1, addressLine1=Padar Para, Themra, Odisha , addressLine2=India), longitude=84.0422524, latitude=21.4684599) is added  
+07-10-20 04:45:14 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 04:45:14 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,,India,1 
+07-10-20 04:45:14 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 04:45:50 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 04:45:50 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,m,India,1 
+07-10-20 04:45:50 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 04:46:01 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 04:46:01 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,mjh,India,1 
+07-10-20 04:46:02 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 04:46:55 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 04:46:55 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,mjh,India,1 
+07-10-20 04:46:56 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 04:47:07 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 04:47:07 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,Padar Para, Themra, Odisha ,India,1 
+07-10-20 04:47:08 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,Padar Para, Themra, Odisha ,India,1 
+07-10-20 04:47:08 [INFO] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:74) -- latitude of the address sdfsdfsdf,Padar Para, Themra, Odisha ,India,1 is passed  as21.46845990,84.04225240 
+07-10-20 04:47:08 [INFO] com.digicides.service.DealershipMgmtServiceImpl - registerDealer com.digicides.service.DealershipMgmtServiceImpl.registerDealer(DealershipMgmtServiceImpl.java:62) -- Dealer(id=28, name=sdfsdfsdf, address=Address(postCode=1, addressLine1=Padar Para, Themra, Odisha , addressLine2=India), longitude=84.0422524, latitude=21.4684599) is added  
+07-10-20 04:48:18 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 04:48:18 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,Padar Para, Themra, Odisha ,India,1 
+07-10-20 04:48:19 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,Padar Para, Themra, Odisha ,India,1 
+07-10-20 04:48:19 [INFO] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:74) -- latitude of the address sdfsdfsdf,Padar Para, Themra, Odisha ,India,1 is passed  as21.46845990,84.04225240 
+07-10-20 04:48:19 [INFO] com.digicides.service.DealershipMgmtServiceImpl - registerDealer com.digicides.service.DealershipMgmtServiceImpl.registerDealer(DealershipMgmtServiceImpl.java:62) -- Dealer(id=29, name=sdfsdfsdf, address=Address(postCode=1, addressLine1=Padar Para, Themra, Odisha , addressLine2=India), longitude=84.0422524, latitude=21.4684599) is added  
+07-10-20 04:49:10 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 04:49:10 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,dgdfgdfgdfgdf ,India,1 
+07-10-20 04:49:10 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 04:50:54 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 04:50:54 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,dgdfgdfgdfgdf ,India,1 
+07-10-20 04:50:55 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 04:56:09 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 04:56:09 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,dgdfgdfgdfgdf ,India,1 
+07-10-20 04:56:10 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 04:56:10 [ERROR] com.digicides.exception.GlobalExceptionHandler - globalExceptionHandler com.digicides.exception.GlobalExceptionHandler.globalExceptionHandler(GlobalExceptionHandler.java:38) --  
+07-10-20 04:57:39 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 04:57:39 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,dgdfgdfgdfgdf ,India,1 
+07-10-20 04:57:40 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 04:57:40 [ERROR] com.digicides.exception.GlobalExceptionHandler - globalExceptionHandler com.digicides.exception.GlobalExceptionHandler.globalExceptionHandler(GlobalExceptionHandler.java:38) --  
+07-10-20 04:58:20 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 04:58:20 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,dgdfgdfgdfgdf ,India,1 
+07-10-20 04:58:21 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 04:58:21 [ERROR] com.digicides.exception.GlobalExceptionHandler - globalExceptionHandler com.digicides.exception.GlobalExceptionHandler.globalExceptionHandler(GlobalExceptionHandler.java:38) --  
+07-10-20 05:00:36 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 05:00:36 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,dgdfgdfgdfgdf ,India,1 
+07-10-20 05:00:36 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 05:00:36 [ERROR] com.digicides.exception.GlobalExceptionHandler - globalExceptionHandler com.digicides.exception.GlobalExceptionHandler.globalExceptionHandler(GlobalExceptionHandler.java:38) --  
+07-10-20 05:01:06 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 05:01:06 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,dgdfgdfgdfgdf ,India,1 
+07-10-20 05:01:07 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 05:01:07 [ERROR] com.digicides.exception.GlobalExceptionHandler - globalExceptionHandler com.digicides.exception.GlobalExceptionHandler.globalExceptionHandler(GlobalExceptionHandler.java:38) --  
+07-10-20 05:02:44 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 05:02:44 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,dgdfgdfgdfgdf ,India,1 
+07-10-20 05:02:45 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 05:02:45 [ERROR] com.digicides.exception.GlobalExceptionHandler - globalExceptionHandler com.digicides.exception.GlobalExceptionHandler.globalExceptionHandler(GlobalExceptionHandler.java:38) --  
+07-10-20 05:04:34 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 05:04:34 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,dgdfgdfgdfgdf ,India,1 
+07-10-20 05:04:35 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 05:04:35 [ERROR] com.digicides.exception.GlobalExceptionHandler - globalExceptionHandler com.digicides.exception.GlobalExceptionHandler.globalExceptionHandler(GlobalExceptionHandler.java:38) --  
+07-10-20 05:06:15 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 05:06:15 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,dgdfgdfgdfgdf ,India,1 
+07-10-20 05:06:16 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 05:06:16 [ERROR] com.digicides.exception.GlobalExceptionHandler - globalExceptionHandler com.digicides.exception.GlobalExceptionHandler.globalExceptionHandler(GlobalExceptionHandler.java:38) --  
+07-10-20 05:08:29 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 05:08:29 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,dgdfgdfgdfgdf ,India,1 
+07-10-20 05:08:30 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 05:08:30 [ERROR] com.digicides.exception.GlobalExceptionHandler - globalExceptionHandler com.digicides.exception.GlobalExceptionHandler.globalExceptionHandler(GlobalExceptionHandler.java:38) -- Index 0 out of bounds for length 0 
+07-10-20 05:20:03 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 05:20:03 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,dgdfgdfgdfgdf ,India,1 
+07-10-20 05:20:04 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 05:20:04 [ERROR] com.digicides.exception.GlobalExceptionHandler - globalExceptionHandler com.digicides.exception.GlobalExceptionHandler.globalExceptionHandler(GlobalExceptionHandler.java:39) -- Index 0 out of bounds for length 0 
+07-10-20 05:21:03 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 05:21:03 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdf,dgdfgdfgdfgdf ,India,1 
+07-10-20 05:21:04 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 05:21:04 [ERROR] com.digicides.exception.GlobalExceptionHandler - globalExceptionHandler com.digicides.exception.GlobalExceptionHandler.globalExceptionHandler(GlobalExceptionHandler.java:38) -- Index 0 out of bounds for length 0 
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:69)
+	at com.digicides.controller.DealershipController.addDealer(DealershipController.java:59)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+07-10-20 05:35:37 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 05:35:37 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :sdfsdfsdfgdfgddffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff,dgdfgdfgdfgdf ,India,1 
+07-10-20 05:35:38 [ERROR] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:71) -- Exception in invoking geocoding api  : Index 0 out of bounds for length 0 
+07-10-20 05:35:38 [ERROR] com.digicides.exception.GlobalExceptionHandler - globalExceptionHandler com.digicides.exception.GlobalExceptionHandler.globalExceptionHandler(GlobalExceptionHandler.java:38) -- Index 0 out of bounds for length 0 
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:69)
+	at com.digicides.controller.DealershipController.addDealer(DealershipController.java:59)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+07-10-20 05:36:00 [ERROR] com.digicides.exception.GlobalExceptionHandler - customeValidationHandler com.digicides.exception.GlobalExceptionHandler.customeValidationHandler(GlobalExceptionHandler.java:60) -- Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.Void> com.digicides.controller.DealershipController.addDealer(com.digicides.pojo.DealerDto) throws java.lang.Exception: [Field error in object 'dealerDto' on field 'name': rejected value []; codes [Size.dealerDto.name,Size.name,Size.java.lang.String,Size]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [dealerDto.name,name]; arguments []; default message [name],2147483647,2]; default message [Name must be greater than 2 character ]]  
+org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.Void> com.digicides.controller.DealershipController.addDealer(com.digicides.pojo.DealerDto) throws java.lang.Exception: [Field error in object 'dealerDto' on field 'name': rejected value []; codes [Size.dealerDto.name,Size.name,Size.java.lang.String,Size]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [dealerDto.name,name]; arguments []; default message [name],2147483647,2]; default message [Name must be greater than 2 character ]] 
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.resolveArgument(RequestResponseBodyMethodProcessor.java:139)
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:167)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:134)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+07-10-20 05:36:42 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 05:36:42 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,,1 
+07-10-20 05:36:43 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,,1 
+07-10-20 05:36:43 [INFO] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:74) -- latitude of the address Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,,1 is passed  as21.46849810,84.04492550 
+07-10-20 05:36:43 [INFO] com.digicides.service.DealershipMgmtServiceImpl - registerDealer com.digicides.service.DealershipMgmtServiceImpl.registerDealer(DealershipMgmtServiceImpl.java:62) -- Dealer(id=30, name=Venkateswar Agro & Tractors, address=Address(postCode=1, addressLine1=Padar Para, Themra, Odisha , addressLine2=), longitude=84.04492549999999, latitude=21.4684981) is added  
+07-10-20 05:38:41 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 05:38:41 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,1 
+07-10-20 05:38:42 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,1 
+07-10-20 05:38:42 [INFO] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:74) -- latitude of the address Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,1 is passed  as21.46849810,84.04492550 
+07-10-20 05:38:43 [INFO] com.digicides.service.DealershipMgmtServiceImpl - registerDealer com.digicides.service.DealershipMgmtServiceImpl.registerDealer(DealershipMgmtServiceImpl.java:62) -- Dealer(id=31, name=Venkateswar Agro & Tractors, address=Address(postCode=1, addressLine1=Padar Para, Themra, Odisha , addressLine2=India), longitude=84.04492549999999, latitude=21.4684981) is added  
+07-10-20 05:47:23 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 05:47:23 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,1 
+07-10-20 05:47:24 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,1 
+07-10-20 05:47:24 [INFO] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:74) -- latitude of the address Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,1 is passed  as21.46849810,84.04492550 
+07-10-20 05:47:24 [INFO] com.digicides.service.DealershipMgmtServiceImpl - registerDealer com.digicides.service.DealershipMgmtServiceImpl.registerDealer(DealershipMgmtServiceImpl.java:62) -- Dealer(id=32, name=Venkateswar Agro & Tractors, address=Address(postCode=1, addressLine1=Padar Para, Themra, Odisha , addressLine2=India), longitude=84.04492549999999, latitude=21.4684981) is added  
+07-10-20 05:55:03 [INFO] com.digicides.geocode.GeocodeService - initializeGeoApiContext com.digicides.geocode.GeocodeService.initializeGeoApiContext(GeocodeService.java:51) -- Context has beent initialized for key AIzaSyBwxHyA25RlKXpfM7jLjoPG4x2oyLPlCeU 
+07-10-20 05:55:03 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,1 
+07-10-20 05:55:04 [INFO] com.digicides.geocode.GeocodeService - getFormattedAddress com.digicides.geocode.GeocodeService.getFormattedAddress(GeocodeService.java:115) -- Evaluating geocode for the address :Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,1 
+07-10-20 05:55:04 [INFO] com.digicides.geocode.GeocodeService - getGeocode com.digicides.geocode.GeocodeService.getGeocode(GeocodeService.java:74) -- latitude of the address Venkateswar Agro & Tractors,Padar Para, Themra, Odisha ,India,1 is passed  as21.46849810,84.04492550 
+07-10-20 05:55:05 [INFO] com.digicides.service.DealershipMgmtServiceImpl - registerDealer com.digicides.service.DealershipMgmtServiceImpl.registerDealer(DealershipMgmtServiceImpl.java:62) -- Dealer(id=33, name=Venkateswar Agro & Tractors, address=Address(postCode=1, addressLine1=Padar Para, Themra, Odisha , addressLine2=India), longitude=84.04492549999999, latitude=21.4684981) is added  
