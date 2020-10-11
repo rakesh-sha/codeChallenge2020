@@ -17,6 +17,7 @@ import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
+import org.springframework.batch.core.launch.support.RunIdIncrementer;
 import org.springframework.batch.item.ItemReader;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.batch.item.data.RepositoryItemReader;
@@ -77,23 +78,25 @@ public class BatchConfig {
 
 	private final Integer CHUNK = 1000;
 
-	/*
-	 * @Bean public JpaPagingItemReader<Farmer> reader() throws Exception{
-	 * JpaPagingItemReader<Farmer> databaseReader=new JpaPagingItemReader<Farmer>();
-	 * databaseReader.setEntityManagerFactory(entityManagerFactory);
-	 * JpaQueryProviderImpl queryProvider=new JpaQueryProviderImpl() ;
-	 * queryProvider.setQuery("Farmer.findAll");
-	 * queryProvider.setEntity(Farmer.class);
-	 * databaseReader.setQueryProvider(queryProvider);
-	 * databaseReader.setPageSize(1000); databaseReader.afterPropertiesSet(); return
-	 * databaseReader;
-	 * 
-	 * }
-	 */
+	
+	/* @Bean public JpaPagingItemReader<Farmer> reader() throws Exception{
+	 JpaPagingItemReader<Farmer> databaseReader=new JpaPagingItemReader<Farmer>();
+	 databaseReader.setEntityManagerFactory(entityManagerFactory);
+	 JpaQueryProviderImpl queryProvider=new JpaQueryProviderImpl() ;
+	 queryProvider.setQuery("Farmer.findAll");
+	 queryProvider.setEntity(Farmer.class);
+	 databaseReader.setQueryProvider(queryProvider);
+	 databaseReader.setPageSize(1000); 
+	 
+	 databaseReader.afterPropertiesSet();
+	 return  databaseReader;
+	 
+	 }*/
+	 
 
 	@Bean
 	public ItemReader<Farmer> reader(FarmerRepo farmerRepo) {
-
+	
 		System.out.println(farmerRepo);
 		RepositoryItemReader<Farmer> reader = new RepositoryItemReader<>();
 		reader.setRepository(farmerRepo);
@@ -102,7 +105,7 @@ public class BatchConfig {
 		reader.setSort(Collections.singletonMap("territory", Sort.Direction.ASC));
 		System.out.println(reader.toString());
 		return reader;
-
+	
 	}
 
 	@Bean
@@ -113,13 +116,17 @@ public class BatchConfig {
 	@Bean
 	public ItemWriter<Farmer> writer(SXSSFWorkbook workBook) {
 		SXSSFSheet sheet = workBook.createSheet("Farmer");
+		System.out.println("BatchConfig.writer()");
 		return new FarmerWriter(sheet);
 
 	}
 
 	@Bean
 	public Step step(ItemReader<Farmer> reader, ItemWriter<Farmer> writer) {
-		return stepBuilderFactory.get("step").<Farmer, Farmer>chunk(CHUNK).reader(reader).writer(writer).build();
+		return stepBuilderFactory.get("step")
+				.<Farmer, Farmer>chunk(CHUNK)
+				.reader(reader)
+				.writer(writer).build();
 	}
 
 	@Bean
@@ -129,7 +136,11 @@ public class BatchConfig {
 
 	@Bean
 	public Job job(Step step, JobExecutionListener listener) {
-		return jobBuilderFactory.get("job").start(step).listener(listener).build();
+		return jobBuilderFactory.get("job")
+				.incrementer(new RunIdIncrementer())
+				.start(step)
+				.listener(listener)
+				.build();
 	}
 
 }

@@ -8,7 +8,9 @@ import javax.persistence.Table;
 
 import org.hibernate.annotations.Type;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 /**
  * Entity class for holding farmer details
@@ -17,6 +19,8 @@ import lombok.Data;
  *
  */
 @Data
+@NoArgsConstructor
+@AllArgsConstructor
 @Entity
 @Table(name="t_Farmer") 
 public class Farmer {
